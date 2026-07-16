@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Ayodeji Olumide Awe
 
-<!--
-**LummyDrea/LummyDrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  **IT & Cybersecurity Professional** | CompTIA Security+ Certified
 
-Here are some ideas to get you started:
+I build hands-on security labs to bridge the gap between theory and enterprise practice. My projects focus on vulnerability management, Active Directory security, SIEM deployment, and incident response.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Featured Projects
+
+🔐 **[Cybersecurity Risk Assessment & Vulnerability Management Lab](https://github.com/LummyDrea/Cybersecurity-Vulnerability-Management-Lab.git)**
+> Vulnerability scanning, risk assessment, security hardening, and brute-force attack simulation in a Windows Server + Kali Linux environment.
+
+📊 **[Splunk Enterprise Deployment](https://github.com/LummyDrea/SPLUNK-ENTERPRISE-DEPLOYMENT.git)**
+> Full SIEM implementation with Windows event log forwarding, custom dashboards, and security monitoring.
+
+---
+
+### 🛠️ Core Skills
+`Vulnerability Assessment` `Active Directory` `Splunk` `Nessus` `Nmap` `Incident Response` `GPO` `SIEM`
+
+---
+
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/ayodeji-awe-698564386) | [Portfolio](link)
