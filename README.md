@@ -6,7 +6,7 @@ I build hands-on security labs to bridge the gap between theory and enterprise p
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 🔐 **[Cybersecurity Risk Assessment & Vulnerability Management Lab](https://github.com/LummyDrea/Cybersecurity-Vulnerability-Management-Lab.git)**
 > Vulnerability scanning, risk assessment, security hardening, and brute-force attack simulation in a Windows Server + Kali Linux environment.
