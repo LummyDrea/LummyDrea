@@ -22,3 +22,18 @@ I build hands-on security labs to bridge the gap between theory and enterprise p
 ---
 
 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/ayodeji-awe-698564386) | [Portfolio](link)
+
+
+
+
+##  Certification
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-EA1D25?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+"/>
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/1575a5c9-1ed9-49b0-a6a1-6554eeb0cb56/public_url">
+    <img src="https://img.shields.io/badge/View-Certificate-0078D4?style=for-the-badge&logo=googledrive&logoColor=white" alt="View Certificate"/>
+  </a>
+</p>
