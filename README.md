@@ -12,7 +12,7 @@ I build hands-on security labs to bridge the gap between theory and enterprise p
 > Vulnerability scanning, risk assessment, security hardening, and brute-force attack simulation in a Windows Server + Kali Linux environment.
 
 📊 **[Splunk Enterprise Deployment](https://github.com/LummyDrea/SPLUNK-ENTERPRISE-DEPLOYMENT.git)**
-> Full SIEM implementation with Windows event log forwarding, custom dashboards, and security monitoring.
+> SIEM implementation with Windows event log forwarding, Sysmon integration, and pfSense syslog collection across Windows and Linux environments.
 
 ---
 
