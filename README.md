@@ -9,7 +9,7 @@ I build hands-on security labs to bridge the gap between theory and enterprise p
 ###  Featured Projects
 
 🔐 **[Cybersecurity Risk Assessment & Vulnerability Management Lab](https://github.com/LummyDrea/Cybersecurity-Vulnerability-Management-Lab.git)**
-> Vulnerability scanning, risk assessment, security hardening, and brute-force attack simulation in a Windows Server + Kali Linux environment.
+> Active Directory, vulnerability scanning, risk assessment, security hardening, and brute-force attack simulation in a Windows Server + Kali Linux environment.
 
 📊 **[Splunk Enterprise Deployment](https://github.com/LummyDrea/SPLUNK-ENTERPRISE-DEPLOYMENT.git)**
 > SIEM implementation with Windows event log forwarding, Sysmon integration, and pfSense syslog collection across Windows and Linux environments.
