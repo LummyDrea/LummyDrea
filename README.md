@@ -14,6 +14,8 @@ I build hands-on security labs to bridge the gap between theory and enterprise p
 📊 **[Splunk Enterprise Deployment](https://github.com/LummyDrea/SPLUNK-ENTERPRISE-DEPLOYMENT.git)**
 > SIEM implementation with Windows event log forwarding, Sysmon integration, and pfSense syslog collection across Windows and Linux environments.
 
+🌐 **[Web Application Enumeration & HTTP Traffic Analysis](https://github.com/LummyDrea/Web-Application-Enumeration-HTTP-Traffic-Analysis-Lab.git)**
+>A hands-on web application security lab where I used Nmap, Gobuster, and Wireshark to perform port scanning, directory enumeration, and HTTP traffic analysis on an intentionally vulnerable website.
 ---
 
 ### 🛠️ Core Skills
