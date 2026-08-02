@@ -8,6 +8,9 @@ I build hands-on security labs to bridge the gap between theory and enterprise p
 
 ###  Featured Projects
 
+🔑 **[Microsoft Entra ID Administration Lab](https://github.com/LummyDrea/Microsoft-Entra-ID-Administration-Lab.git)**
+> Cloud identity and access management lab covering Microsoft Entra ID user administration, security groups, dynamic membership rules, RBAC, MFA configuration, audit logging, sign-in monitoring, and enterprise application management.
+
 🔐 **[Cybersecurity Risk Assessment & Vulnerability Management Lab](https://github.com/LummyDrea/Cybersecurity-Vulnerability-Management-Lab.git)**
 > Active Directory, vulnerability scanning, risk assessment, security hardening, and brute-force attack simulation in a Windows Server + Kali Linux environment.
 
