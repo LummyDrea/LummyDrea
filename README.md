@@ -8,6 +8,9 @@ I build hands-on security labs to bridge the gap between theory and enterprise p
 
 ###  Featured Projects
 
+🖥️ **[Microsoft Intune Device Management & Endpoint Security Lab](https://github.com/LummyDrea/Microsoft-Intune-Device-Management-Endpoint-Security-Lab.git)**
+> Enterprise endpoint management lab demonstrating Microsoft Intune device enrolment, compliance policies, configuration profiles, endpoint security, application deployment, Windows Update management, device monitoring, and integration with Microsoft Entra ID to secure and manage Windows endpoints.
+
 🔑 **[Microsoft Entra ID Administration Lab](https://github.com/LummyDrea/Microsoft-Entra-ID-Administration-Lab.git)**
 > Cloud identity and access management lab covering Microsoft Entra ID user administration, security groups, dynamic membership rules, RBAC, MFA configuration, audit logging, sign-in monitoring, and enterprise application management.
 
