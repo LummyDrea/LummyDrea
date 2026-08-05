@@ -25,7 +25,7 @@ I build hands-on enterprise IT and cybersecurity labs to bridge the gap between 
 ---
 
 ### 🛠️ Core Skills
-`Vulnerability Assessment` `Active Directory` `Splunk` `Nessus` `Nmap` `Incident Response` `GPO` `SIEM`
+`Microsoft Intune` `Microsoft Entra ID` `Azure` `Active Directory` `Windows Administration` `Nessus` `Nmap` `Splunk` `Endpoint Security` `Network Troubleshooting` `GPO`
 
 ---
 
