@@ -2,7 +2,7 @@
 
 ###  **IT & Cybersecurity Professional** | CompTIA Security+ Certified
 
-I build hands-on security labs to bridge the gap between theory and enterprise practice. My projects focus on vulnerability management, Active Directory security, SIEM deployment, and incident response.
+I build hands-on enterprise IT and cybersecurity labs to bridge the gap between theory and real-world practice. My projects demonstrate practical skills in Microsoft Intune, Microsoft Entra ID, Azure, Active Directory, endpoint management, Windows administration, vulnerability management, SIEM deployment, network troubleshooting, and incident response.
 
 ---
 
