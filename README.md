@@ -6,6 +6,11 @@ I build hands-on enterprise IT and cybersecurity labs to bridge the gap between 
 
 ---
 
+☁️ **[Azure Network Troubleshooting & NSG Security Lab](https://github.com/LummyDrea/Azure-Network-Troubleshooting-NSG-Security-Lab.git)**
+
+> Hands-on Azure networking and security lab demonstrating Virtual Network and subnet configuration, Windows Server deployment, IIS web server hosting, Network Security Group (NSG) configuration, TCP/HTTP connectivity testing, Azure Network Watcher diagnostics, root-cause analysis, NSG remediation, and least-privilege network access control.
+
+
 ###  Featured Projects
 
 🖥️ **[Microsoft Intune Device Management & Endpoint Security Lab](https://github.com/LummyDrea/Microsoft-Intune-Device-Management-Endpoint-Security-Lab.git)**
