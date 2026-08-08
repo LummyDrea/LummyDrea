@@ -1,8 +1,8 @@
 #                                                       Ayodeji Olumide Awe
 
-###  **IT & Cybersecurity Professional** | CompTIA Security+ Certified
+###  **IT Support Specialist** | CompTIA Security+ Certified
 
-I build hands-on enterprise IT and cybersecurity labs to bridge the gap between theory and real-world practice. My projects demonstrate practical skills in Microsoft Intune, Microsoft Entra ID, Azure, Active Directory, endpoint management, Windows administration, vulnerability management, SIEM deployment, network troubleshooting, and incident response.
+I build hands-on enterprise IT and cybersecurity labs to develop practical experience in Windows administration, Microsoft 365, Microsoft Entra ID, Microsoft Intune, Active Directory, Azure, endpoint management, network troubleshooting, vulnerability management, and security monitoring.
 
 ---
 
