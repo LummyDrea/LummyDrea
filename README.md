@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/lummydrea">
-    <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=400&size=100&pause=2500&color=1f9c8f&center=true&vCenter=true&width=1050&height=90&lines=Hello!;My%20Name%20is%20Ayodeji&speed=100&deleteSpeed=60&repeat=true" alt="Hello! My Name is Ayodeji" />
+    <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=400&size=80&pause=2500&color=1f9c8f&center=true&vCenter=true&width=1050&height=90&lines=Hello!;My%20Name%20is%20Ayodeji&speed=100&deleteSpeed=60&repeat=true" alt="Hello! My Name is Ayodeji" />
   </a>
 </p>
 
