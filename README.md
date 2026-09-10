@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/lummydrea">
-    <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=400&size=75&pause=2500&color=1f9c8f&center=true&vCenter=true&width=1050&height=90&lines=Hello!;My%20Name%20is%20Ayodeji&speed=100&deleteSpeed=60&repeat=true" alt="Hello! My Name is Ayodeji" />
+    <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=400&size=70&pause=2500&color=1f9c8f&center=true&vCenter=true&width=1050&height=90&lines=Hello!;My%20Name%20is%20Ayodeji&speed=100&deleteSpeed=60&repeat=true" alt="Hello! My Name is Ayodeji" />
   </a>
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=26&pause=3000&color=FFFFFF&left=true&vCenter=true&width=805&height=44&lines=IT%20Support%20Specialist%20%7C%20CompTIA%20Security%2B%20Certified&speed=80&deleteSpeed=40&repeat=true" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=60&pause=3000&color=FFFFFF&left=true&vCenter=true&width=805&height=44&lines=IT%20Support%20Specialist%20%7C%20CompTIA%20Security%2B%20Certified&speed=80&deleteSpeed=40&repeat=true" alt="Typing headlines" />
 </p>
 
 
