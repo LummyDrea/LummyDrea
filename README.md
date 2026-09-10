@@ -13,16 +13,6 @@
 I build hands-on enterprise IT and cybersecurity labs to develop practical experience in Windows administration, Microsoft 365, Microsoft Entra ID, Microsoft Intune, Active Directory, Azure, endpoint management, network troubleshooting, vulnerability management, and security monitoring.
 
 
-<p align="center">
-  <a href="https://github.com/lummydrea">
-    <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=400&size=216&pause=2500&color=1f9c8f&center=true&vCenter=true&width=4200&height=360&lines=Hello!;My%20Name%20is%20Ayodeji&speed=100&deleteSpeed=60&repeat=true" alt="Hello! My Name is Ayodeji" />
-  </a>
-</p>
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=104&pause=3000&color=FFFFFF&left=true&vCenter=true&width=3220&height=176&lines=IT%20Support%20Specialist%20%7C%20CompTIA%20Security%2B%20Certified&speed=80&deleteSpeed=40&repeat=true" alt="Typing headlines" />
-</p>
-
 
 
 ### 🛠️ Tech Stack
