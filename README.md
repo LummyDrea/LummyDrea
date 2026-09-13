@@ -5,7 +5,11 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=30&pause=3000&color=FFFFFF&left=true&vCenter=true&width=805&height=44&lines=IT%20Support%20Specialist%20%7C%20CompTIA%20Security%2B%20Certified&speed=80&deleteSpeed=40&repeat=true" alt="Typing headlines" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=30&pause=3000&color=FFFFFF&left=true&vCenter=true&width=805&height=44&lines=IT%20Support%20Specialist%20%7C%20CompTIA%20Security%2B%20Certified&speed=80&deleteSpeed=40&repeat=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=30&pause=3000&color=000000&left=true&vCenter=true&width=805&height=44&lines=IT%20Support%20Specialist%20%7C%20CompTIA%20Security%2B%20Certified&speed=80&deleteSpeed=40&repeat=true">
+    <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=30&pause=3000&color=000000&left=true&vCenter=true&width=805&height=44&lines=IT%20Support%20Specialist%20%7C%20CompTIA%20Security%2B%20Certified&speed=80&deleteSpeed=40&repeat=true" alt="Typing headlines" />
+  </picture>
 </p>
 
 
