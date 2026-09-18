@@ -12,6 +12,7 @@
   </picture>
 </p>
 
+---
 
 
 I build hands-on enterprise IT and cybersecurity labs to develop practical experience in Windows administration, Microsoft 365, Microsoft Entra ID, Microsoft Intune, Active Directory, Azure, endpoint management, network troubleshooting, vulnerability management, and security monitoring.
